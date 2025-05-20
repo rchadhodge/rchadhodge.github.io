@@ -64,7 +64,7 @@
 <body>
   <header>
     <h1>Blue Pen Consulting LLC</h1>
-    <p>Contracts & Procurement Consulting Services</p>
+    <p>Contracts & Procurement Services</p>
   </header>
   <nav>
     <a href="#overview">Overview</a>
@@ -76,24 +76,25 @@
 
   <section id="overview">
     <h2>Overview</h2>
-    <p>Blue Pen Consulting LLC specializes in helping corporations and small to mid-size companies strengthen their contracts and procurement functions. We bring clarity and efficiency through robust procedure development, effective contracting strategies, and hands-on support at every stage of procurement transformation.</p>
+    <p>Blue Pen Consulting LLC specializes in helping businesses of all sizes strengthen their contracts and procurement functions. We bring clarity and efficiency through robust procedure development, effective contracting strategies, and hands-on support at every stage of procurement transformation.</p>
   </section>
 
   <section id="services" class="services">
     <h2>Our Services</h2>
     <ul>
-      <li>Contract and procurement procedure development</li>
-      <li>Drafting of forms and management tools</li>
-      <li>Procurement and contracting strategy</li>
-      <li>Training on contract and procurement best practices</li>
-      <li>Drafting, negotiation, and management support</li>
-      <li>Support for procurement and contract transformation projects</li>
+      <li>Procedure Review and Enhancement</li>
+      <li>Procedure Development</li>
+      <li>Forms and Management Tools</li>
+      <li>Strategy Enhancement</li>
+      <li>Training</li>
+      <li>Drafting, Negotiation, and Management Support</li>
+      <li>Project Support</li>
     </ul>
   </section>
 
   <section id="team" class="team">
     <h2>Our Team</h2>
-    <p>Our team of seasoned procurement and contract professionals brings deep industry experience and a pragmatic approach to each engagement. [Add individual bios with photos here if available]</p>
+    <p>Our seasoned procurement and contract staff brings deep industry experience and a pragmatic approach to each engagement. [Add individual bios with photos here if available]</p>
   </section>
 
   <section id="insights" class="insights">
