@@ -9,7 +9,7 @@
       box-sizing: border-box;
     }
     body {
-      font-family: 'Proxima Nova', sans-serif;
+      font-family: 'Open Sans', sans-serif;
       margin: 0;
       background: url('https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=1950&q=80') no-repeat center center fixed;
       background-size: cover;
@@ -20,6 +20,10 @@
       color: #ffffff;
       padding: 1rem;
       text-align: center;
+    }
+    header img {
+      max-width: 300px;
+      height: auto;
     }
     nav {
       display: flex;
@@ -76,13 +80,15 @@
       .contact-form button {
         width: 100%;
       }
+      header img {
+        max-width: 80%;
+      }
     }
   </style>
 </head>
 <body>
   <header>
-    <h1>Blue Pen Consulting LLC</h1>
-    <p>Contracts & Procurement Services</p>
+    <img src="Logo Final.png" alt="Blue Pen Consulting LLC Logo">
   </header>
   <nav>
     <a href="#overview">Overview</a>
@@ -93,14 +99,14 @@
   </nav>
 
   <section id="overview">
-    <h2>About Us</h2>
+    <h2>Overview</h2>
     <p>Blue Pen Consulting LLC specializes in helping businesses of all sizes strengthen their contracts and procurement functions. We bring clarity and efficiency through robust procedure development, effective contracting strategies, and hands-on support at every stage of procurement transformation.</p>
   </section>
 
   <section id="services" class="services">
     <h2>Our Services</h2>
     <ul>
-         <li>Procedure Review and Enhancement</li>
+      <li>Procedure Review and Enhancement</li>
       <li>Procedure Development</li>
       <li>Forms and Management Tools</li>
       <li>Strategy Enhancement</li>
@@ -112,7 +118,7 @@
 
   <section id="team" class="team">
     <h2>Our Team</h2>
-    <p>Our seasoned procurement and contract staff brings deep industry experience and a pragmatic approach to each engagement.  [Add individual bios with photos here if available]</p>
+    <p>Our seasoned procurement and contract staff brings deep industry experience and a pragmatic approach to each engagement. [Add individual bios with photos here if available]</p>
   </section>
 
   <section id="insights" class="insights">
