@@ -82,7 +82,7 @@
 <body>
   <header>
     <h1>Blue Pen Consulting LLC</h1>
-    <p>Contracts & Procurement Consulting Services</p>
+    <p>Contracts & Procurement Services</p>
   </header>
   <nav>
     <a href="#overview">Overview</a>
