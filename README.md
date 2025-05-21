@@ -14,10 +14,18 @@
     }
     body {
       font-family: 'Roboto', sans-serif;
-      background: url('Web background.jpg') no-repeat center center fixed;
-      background-size: cover;
-      background-attachment: scroll;
       color: #000000;
+    }
+    .background-fixed {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: url('Web background.jpg') no-repeat center center;
+      background-size: cover;
+      background-attachment: fixed;
+      z-index: -1;
     }
     header {
       background-color: rgba(0, 31, 63, 0.9);
@@ -87,15 +95,11 @@
       header img {
         max-width: 80%;
       }
-     body {
-        background: url('Web background.jpg') no-repeat center center fixed;
-        background-size: cover;
-        background-attachment: fixed;
-      }
     }
   </style>
 </head>
 <body>
+  <div class="background-fixed"></div>
   <header>
     <img src="Logo Final Edit 2.png" alt="Blue Pen Consulting LLC Logo">
   </header>
