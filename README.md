@@ -6,13 +6,14 @@
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
-      font-family: 'Roboto', sans-serif;
+      font-family: 'Open Sans', sans-serif;
       margin: 0;
-      background-color: #ffffff;
+      background: url('https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=1950&q=80') no-repeat center center fixed;
+      background-size: cover;
       color: #000000;
     }
     header {
-      background-color: #001f3f;
+      background-color: rgba(0, 31, 63, 0.9);
       color: #ffffff;
       padding: 1rem;
       text-align: center;
@@ -20,7 +21,7 @@
     nav {
       display: flex;
       justify-content: center;
-      background: #0074D9;
+      background: rgba(0, 116, 217, 0.9);
       padding: 0.5rem;
     }
     nav a {
@@ -30,12 +31,14 @@
       font-weight: bold;
     }
     section {
+      background-color: rgba(255, 255, 255, 0.95);
       padding: 2rem;
       max-width: 1000px;
-      margin: auto;
+      margin: 2rem auto;
+      border-radius: 8px;
     }
     footer {
-      background-color: #001f3f;
+      background-color: rgba(0, 31, 63, 0.9);
       color: white;
       text-align: center;
       padding: 1rem;
@@ -57,7 +60,7 @@
       padding: 0.7rem 1.5rem;
       border: none;
       cursor: pointer;
-    }
+      }
   </style>
 </head>
 <body>
