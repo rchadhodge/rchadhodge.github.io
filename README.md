@@ -93,7 +93,7 @@
   </nav>
 
   <section id="overview">
-    <h2>Overview</h2>
+    <h2>About Us</h2>
     <p>Blue Pen Consulting LLC specializes in helping businesses of all sizes strengthen their contracts and procurement functions. We bring clarity and efficiency through robust procedure development, effective contracting strategies, and hands-on support at every stage of procurement transformation.</p>
   </section>
 
