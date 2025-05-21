@@ -9,7 +9,7 @@
       box-sizing: border-box;
     }
     body {
-      font-family: 'Open Sans', sans-serif;
+      font-family: 'Proxima Nova', sans-serif;
       margin: 0;
       background: url('https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=1950&q=80') no-repeat center center fixed;
       background-size: cover;
