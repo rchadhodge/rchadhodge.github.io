@@ -7,11 +7,16 @@
     * {
       box-sizing: border-box;
     }
-    body {
-      font-family: 'Roboto', sans-serif;
+    html, body {
       margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+    body {
+      font-family: 'Open Sans', sans-serif;
       background: url('Web background.jpg') no-repeat center center fixed;
       background-size: cover;
+      background-attachment: scroll;
       color: #000000;
     }
     header {
@@ -81,6 +86,10 @@
       }
       header img {
         max-width: 80%;
+      }
+      body {
+        background: url('Web background.jpg') no-repeat center center scroll;
+        background-size: cover;
       }
     }
   </style>
