@@ -6,7 +6,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
-     font-family: 'Roboto', sans-serif;
+      font-family: 'Open Sans', sans-serif;
       margin: 0;
       background: url('https://images.unsplash.com/photo-1588776814546-ec7ff13de3a7?auto=format&fit=crop&w=1950&q=80') no-repeat center center fixed;
       background-size: cover;
@@ -60,7 +60,7 @@
       padding: 0.7rem 1.5rem;
       border: none;
       cursor: pointer;
-      }
+    }
   </style>
 </head>
 <body>
