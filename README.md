@@ -87,7 +87,7 @@
 </head>
 <body>
   <header>
-    <img src="Logo Final Edit.png" alt="Blue Pen Consulting LLC Logo">
+    <img src="Logo Final Edit 2.png" alt="Blue Pen Consulting LLC Logo">
   </header>
   <nav>
     <a href="#overview">Overview</a>
