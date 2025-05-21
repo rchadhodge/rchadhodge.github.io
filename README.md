@@ -8,7 +8,7 @@
       box-sizing: border-box;
     }
     body {
-      font-family: 'Open Sans', sans-serif;
+      font-family: 'Roboto', sans-serif;
       margin: 0;
       background: url('Web background.jpg') no-repeat center center fixed;
       background-size: cover;
