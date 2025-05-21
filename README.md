@@ -1,4 +1,4 @@
-<html lang="en">
+t<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -88,7 +88,7 @@
 </head>
 <body>
   <header>
-    <img src="Logo Final.png" alt="Blue Pen Consulting LLC Logo">
+    <img src="Logo Final Edit.png" alt="Blue Pen Consulting LLC Logo">
   </header>
   <nav>
     <a href="#overview">Overview</a>
