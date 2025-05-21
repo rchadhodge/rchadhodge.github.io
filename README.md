@@ -87,9 +87,10 @@
       header img {
         max-width: 80%;
       }
-      body {
-        background: url('Web background.jpg') no-repeat center center scroll;
+     body {
+        background: url('Web background.jpg') no-repeat center center fixed;
         background-size: cover;
+        background-attachment: fixed;
       }
     }
   </style>
