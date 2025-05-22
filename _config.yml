@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
 title: Blue Pen Consulting
-description: Blue Pen Consulting LLC specializes in helping corporations and small to mid-size companies strengthen their contracts and procurement functions. We bring clarity and efficiency through robust procedure development, effective contracting strategies, and hands-on support at every stage of procurement transformation.
+#description: Blue Pen Consulting LLC specializes in helping corporations and small to mid-size companies strengthen their contracts and procurement functions. We bring clarity and efficiency through robust procedure development, effective contracting strategies, and hands-on support at every stage of procurement transformation.
+
+description: Contract & Procurement Consulting
+theme: null
+markdown: kramdown
