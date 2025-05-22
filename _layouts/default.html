@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title | default: "Blue Pen Consulting LLC" }}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <div class="background-fixed"></div>
+  <header>
+    <img src="/assets/images/Logo Final Edit 2.png" alt="Blue Pen Consulting LLC Logo">
+  </header>
+  <nav>
+    <a href="#overview">Overview</a>
+    <a href="#services">Services</a>
+    <a href="#team">Team</a>
+    <a href="#insights">Insights</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>&copy; 2025 Blue Pen Consulting LLC. All rights reserved.</p>
+  </footer>
+</body>
+</html>
