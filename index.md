@@ -37,7 +37,7 @@ We understand what it takes to build and sustain an effective contracts and proc
 
 <section id="contact">
   <h2>Contact Us</h2>
-  <form class="contact-form" name="contact" method="POST" data-netlify="true">
+    <form action="https://formspree.io/f/xjkrgvrg" method="POST">
     <input type="hidden" name="form-name" value="contact">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" required />
