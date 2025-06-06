@@ -5,7 +5,9 @@ title: Home
 
 <section id="overview">
   <h2>Overview</h2>
-  <p>Blue Pen Consulting LLC specializes in helping businesses of all sizes strengthen their contracts and procurement functions. We bring clarity and efficiency through robust procedure development, effective contracting strategies, and hands-on support at every stage of procurement transformation.</p>
+  <p>Blue Pen Consulting LLC specializes in helping businesses of all sizes strengthen their contracts and procurement functions. At Blue Pen Consulting, we help organizations unlock greater value, efficiency, and compliance across contracts, procurement, and supply chain operations. Whether you're a startup building from the ground up or an established enterprise navigating complex systems, we offer the strategic guidance and hands-on expertise to move your business forward.
+
+Our services are tailored to meet you where you are, whether you need to streamline processes, enhance supplier relationships, or strengthen your negotiation strategy. Blue Pen Consulting is your trusted partner for results-driven, future-ready solutions.</p>
 </section>
 
 <section id="services" class="services">
@@ -23,7 +25,9 @@ title: Home
 
 <section id="team" class="team">
   <h2>Our Team</h2>
-  <p>Our seasoned procurement and contract staff brings deep industry experience and a pragmatic approach to each engagement. [Add individual bios with photos here if available]</p>
+  <p>Our seasoned procurement and contract staff brings deep industry experience and a pragmatic approach to each engagement. With over 18 years of hands-on industrial experience, Blue Pen Consulting brings deep and practical knowledge of contracting and procurement from both sides of the table. Our experience comes from delivered results for the world’s largest Engineering, Procurement, and Construction (EPC) firms and owner/operators, including a world-class chemical manufacturer and a global chemical technology licensor.
+
+We understand what it takes to build and sustain an effective contracts and procurement program not just in theory, but in real-world execution.</p>
 </section>
 
 <section id="insights" class="insights">
